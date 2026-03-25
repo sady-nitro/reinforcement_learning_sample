@@ -261,7 +261,7 @@ def print_policy(q_table):
 # ============================================================
 # 可視化
 # ============================================================
-OUTPUT_DIR = "/Users/masashi.sadamatsu/workspace/source/locals/reinforce_learning_sample"
+OUTPUT_DIR = "."
 
 
 def _moving_average(data, window=100):
